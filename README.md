@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<img src="http://capsule-render.vercel.app/api?
-type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&
-text=Soomin&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F2C9D1,100:A9D0D9&height=200&text=Soomin&animation=fadeIn&fontSize=60&fontAlign=70&fontAlignY=40&descSize=30)
 
 <!--
 **soom4478/soom4478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
