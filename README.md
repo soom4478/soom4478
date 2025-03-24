@@ -1,9 +1,7 @@
-![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=0:9966CC,100:6FADCF&text=soomin&fontColor=FFFFFF&animation=fadeIn&fontSize=60&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=0:7D6642,100:BB9863&text=soomin&fontColor=FFFFFF&animation=fadeIn&fontSize=60&fontAlignY=35)
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=soom44_78" alt="GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=soom44_78&theme=shadow-brown" alt="GitHub Streak" /></a>
 </div>
 
 <!--
