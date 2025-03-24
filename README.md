@@ -1,3 +1,5 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soom44_78&theme=default)](https://git.io/streak-stats)
+
 ![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=0:9966CC,100:6FADCF&text=soomin&fontColor=FFFFFF&animation=fadeIn&fontSize=60&fontAlignY=35)
 
 <!--
